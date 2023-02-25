@@ -1,0 +1,15 @@
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/repository/CalificacionesRepository.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/servlet/response/CalificacionesResponse.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/controller/CalificacionesController.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/service/CalificacionesService.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/controller/TheaterController.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/exception/ResourceNotFoundException.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/model/Materias.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/security/SecurityConfiguration.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/mapper/CalificacionesMapper.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/security/JwtOpaqueTokenIntrospector.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/service/impl/CalificacionesImpl.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/TheatersApplication.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/servlet/HttpServletUtils.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/model/Alumnos.java
+/Users/danielflores/DanielLocal/React/dirTres/ejemplo4/okta-spring-security-test-example/theaters/src/main/java/com/okta/developer/theaters/model/Calificaciones.java

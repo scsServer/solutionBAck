@@ -1,0 +1,31 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: theater
+  datasource:
+    username: postgres
+    url: jdbc:postgresql://localhost:5432/escuela
+    password: postgres
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: 'true'
+    hibernate:
+      ddl-auto: none
+  security:
+    oauth2:
+      resourceserver:
+        opaque-token:
+          introspection-uri: https://dev-75191241.okta.com/oauth2/default/v1/introspect
+          client-secret: 0oa8gahzbf1xJKMYA5d7
+          client-id: UM5XMU5xwzr-BMzXf4MfJxIRzNv5CktUeyacirEY
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    service-url:
+      defaultZone: ${SERVICE_URL_DEFAULT_ZONE}  
